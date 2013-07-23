@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+   <url>
+      <loc>http://www.nokianieuws.com/</loc>
+      <lastmod>2013-07-23</lastmod>
+      <changefreq>hourly</changefreq>
+      <priority>1</priority>
+   </url>
+   <url>
+      <loc>nokianieuws/nokia-kondigt-morgenochtend-een-groot-apparaat-aan.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>NokiaNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-22</news:publication_date>
+         <news:title>Nokia kondigt morgenochtend een 'groot' apparaat aan</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>nokianieuws/nokia-directeur-was-bang-voor-samsung.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>NokiaNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-19</news:publication_date>
+         <news:title>Nokia-directeur was bang voor Samsung</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>nokianieuws/dure-tegenvaller-voor-goedkope-windows.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>NokiaNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-19</news:publication_date>
+         <news:title>Dure tegenvaller voor goedkope Windows</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>nokianieuws/ryan-hunter-reay-wint-een-espy-award.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>NokiaNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-18</news:publication_date>
+         <news:title>Ryan Hunter-Reay wint een ESPY-award</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>nokianieuws/lumia-verkoop-in-de-lift-omzet-nokia-daalt-verder.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>NokiaNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-18</news:publication_date>
+         <news:title>Lumia-verkoop in de lift, omzet Nokia daalt verder</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>nokianieuws/nokia-verliest-weer-maar-minder-dan-vorig-jaar.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>NokiaNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-18</news:publication_date>
+         <news:title>Nokia verliest weer, maar minder dan vorig jaar</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>nokianieuws/nokia-lumia-520-wereldwijd-meest-verkocht-video.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>NokiaNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-18</news:publication_date>
+         <news:title>Nokia Lumia 520 wereldwijd meest verkocht (video)</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>nokianieuws/omzet-nokia-met-een-kwart-gekrompen-in-n-jaar-tijd.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>NokiaNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-18</news:publication_date>
+         <news:title>Omzet Nokia met een kwart gekrompen in &Atilde;&copy;&Atilde;&copy;n jaar tijd</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>nokianieuws/nokia-geraakt-maar-niet-uit-dal.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>NokiaNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-18</news:publication_date>
+         <news:title>Nokia geraakt maar niet uit dal</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>nokianieuws/minder-verlies-voor-nokia-in-tweede-kwartaal-dankzij-verkoop-lumia.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>NokiaNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-18</news:publication_date>
+         <news:title>Minder verlies voor Nokia in tweede kwartaal dankzij verkoop Lumia</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>nokianieuws/verkopen-nokia-lumias-stijgen-wederom.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>NokiaNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-18</news:publication_date>
+         <news:title>Verkopen Nokia Lumia's stijgen wederom</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>nokianieuws/nokia-verkoopt-meer-lumias.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>NokiaNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-18</news:publication_date>
+         <news:title>Nokia verkoopt meer Lumia's</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>nokianieuws/verkoop-nokia-lumia-trekt-aan.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>NokiaNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-18</news:publication_date>
+         <news:title>Verkoop Nokia Lumia trekt aan</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>nokianieuws/nokia-weet-verlies-te-beperken.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>NokiaNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-18</news:publication_date>
+         <news:title>Nokia weet verlies te beperken</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>nokianieuws/colar-app-brengt-kleurplaten-tot-leven.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>NokiaNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-18</news:publication_date>
+         <news:title>ColAR app brengt kleurplaten tot leven</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>nokianieuws/omzet-nokia-stort-in.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>NokiaNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-18</news:publication_date>
+         <news:title>Omzet Nokia stort in</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>nokianieuws/nokia-raakt-maar-niet-weg-uit-sukkelstraatje.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>NokiaNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-18</news:publication_date>
+         <news:title>Nokia raakt maar niet weg uit sukkelstraatje</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>nokianieuws/omzet-nokia-met-bijna-een-kwart-omlaag.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>NokiaNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-18</news:publication_date>
+         <news:title>Omzet Nokia met bijna een kwart omlaag</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>nokianieuws/nokias-lumia-scoort-onvoldoende.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>NokiaNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-18</news:publication_date>
+         <news:title>Nokia's Lumia scoort onvoldoende</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>nokianieuws/lumia-zorgt-voor-voorzichtig-herstel-nokia.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>NokiaNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-18</news:publication_date>
+         <news:title>Lumia zorgt voor voorzichtig herstel Nokia</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>nokianieuws/nokia-ziet-verkopen-lumia-telefoons-opnieuw-stijgen.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>NokiaNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-18</news:publication_date>
+         <news:title>Nokia ziet verkopen Lumia-telefoons opnieuw stijgen</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>nokianieuws/nokia-komt-met-goedkoper-47-inch-lumia-toestel.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>NokiaNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-18</news:publication_date>
+         <news:title>Nokia komt met goedkoper 4,7 inch Lumia-toestel</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>nokianieuws/omzet-nokia-blijft-maar-kelderen.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>NokiaNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-18</news:publication_date>
+         <news:title>Omzet Nokia blijft maar kelderen</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>nokianieuws/nokia-lumia-925-eind-augustus-2013-verkrijgbaar.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>NokiaNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-17</news:publication_date>
+         <news:title>Nokia Lumia 925 eind augustus 2013 verkrijgbaar</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>nokianieuws/nokia-lumia-625-grootste-lumia-tot-nu-toe.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>NokiaNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-17</news:publication_date>
+         <news:title>'Nokia Lumia 625 grootste Lumia tot nu toe'</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>nokianieuws/goedkope-nokia-lumia-met-47inch-scherm-lekt-uit.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>NokiaNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-17</news:publication_date>
+         <news:title>'Goedkope Nokia Lumia met 4,7inch-scherm lekt uit'</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>nokianieuws/fotos-nokia-lumia-625-lekken-uit.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>NokiaNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-17</news:publication_date>
+         <news:title>'Foto's Nokia Lumia 625 lekken uit'</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>nokianieuws/nokia-maakt-nieuwe-4g-telefoon.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>NokiaNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-17</news:publication_date>
+         <news:title>'Nokia maakt nieuwe 4G-telefoon'</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>nokianieuws/nokia-lumia-1020-uit-elkaar-gehaald-en-duitse-prijs-bekend.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>NokiaNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-17</news:publication_date>
+         <news:title>Nokia Lumia 1020 uit elkaar gehaald en Duitse prijs bekend</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>nokianieuws/fotos-nokia-lumia-toestel-met-grootste-scherm-komen-online.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>NokiaNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-17</news:publication_date>
+         <news:title>Foto's Nokia Lumia-toestel met grootste scherm komen online</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>nokianieuws/omzet-yahoo-daalt-winst-stijgt.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>NokiaNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-16</news:publication_date>
+         <news:title>Omzet Yahoo daalt, winst stijgt</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>nokianieuws/prijzen-windows-phones-nokia-htc-en-samsung-kelderen-in-nederland.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>NokiaNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-16</news:publication_date>
+         <news:title>Prijzen Windows Phones Nokia, HTC en Samsung kelderen in Nederland</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>nokianieuws/nokia-lumia-925-eind-augustus-te-koop.html</loc>
+      <changefreq>monthly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>NokiaNieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-16</news:publication_date>
+         <news:title>Nokia Lumia 925 eind augustus te koop</news:title>
+      </news:news>
+   </url>
+</urlset>
