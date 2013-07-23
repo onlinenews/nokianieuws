@@ -29,7 +29,25 @@
       <body class="nokianieuws">
          <div id="topbar">
             <ul>
-               <li class="active">NokiaNieuws</li><li><a href="http://www.iphonenieuws.com">iPhoneNieuws</a></li><li><a href="http://www.androidnieuws.com">AndroidNieuws</a></li><li><a href="http://www.blackberrynieuws.com">BlackBerryNieuws</a></li>               <li class="right">23 juli 2013</li>
+               <li class="active">NokiaNieuws</li><li><a href="http://www.iphonenieuws.com">iPhoneNieuws</a></li><li><a href="http://www.androidnieuws.com">AndroidNieuws</a></li><li><a href="http://www.blackberrynieuws.com">BlackBerryNieuws</a></li>               <li class="right"><script>var d=new Date();
+var month=new Array();
+month[0]="januari";
+month[1]="februari";
+month[2]="maart";
+month[3]="april";
+month[4]="mei";
+month[5]="juni";
+month[6]="juli";
+month[7]="augustus";
+month[8]="september";
+month[9]="oktober";
+month[10]="november";
+month[11]="december";
+var n = month[d.getMonth()];
+document.write(d.getDate()+" ");
+document.write(n+" ");
+document.write(d.getFullYear());
+</script></li>
             </ul>
          </div><div id="leaderboard"><script type="text/javascript"  src="http://views.m4n.nl/_v?zid=1088321"></script></div><h1 id="pagetitle"><a href="http://www.nokianieuws.com"><img src="images/title.jpg" alt="NokiaNieuws"/></a></h1>
          <div id="nav">
