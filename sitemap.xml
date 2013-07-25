@@ -3,16 +3,129 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
    <url>
       <loc>http://www.nokianieuws.com/</loc>
-      <lastmod>2013-07-24</lastmod>
+      <lastmod>2013-07-25</lastmod>
       <changefreq>hourly</changefreq>
       <priority>1</priority>
    </url>
    <url>
-      <loc>http://www.nokianieuws.com/nokia-kondigt-morgenochtend-een-groot-apparaat-aan.html</loc>
-      <changefreq>monthly</changefreq>
+      <loc>http://www.nokianieuws.com/lumia-1020-vs-galaxy-s4-rich-recording-vergelijk.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>NokiaNieuws</news:name>
+            <news:name>Nokia Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Lumia 1020 vs Galaxy S4. Rich Recording vergelijk</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.nokianieuws.com/nokia-lanceert-goedkope-4g-smartphone-lumia-625.html</loc>
+      <lastmod>2013-07-24</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>Nokia Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-24</news:publication_date>
+         <news:title>Nokia lanceert goedkope 4G-smartphone Lumia 625</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.nokianieuws.com/nokia-lumia-625-met-47-inch-scherm-gepresenteerd.html</loc>
+      <lastmod>2013-07-23</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>Nokia Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-23</news:publication_date>
+         <news:title>Nokia Lumia 625 met 4.7-inch scherm gepresenteerd</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.nokianieuws.com/nokia-lumia-625-betaalbare-4g-smartphone.html</loc>
+      <lastmod>2013-07-23</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>Nokia Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-23</news:publication_date>
+         <news:title>Nokia Lumia 625: Betaalbare 4G-smartphone</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.nokianieuws.com/nokia-kondigt-lumia-625-aan-met-47-inch-scherm.html</loc>
+      <lastmod>2013-07-23</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>Nokia Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-23</news:publication_date>
+         <news:title>Nokia kondigt Lumia 625 aan met 4,7 inch-scherm</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.nokianieuws.com/nokia-maakt-de-lumia-625-bekend-met-47-scherm.html</loc>
+      <lastmod>2013-07-23</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>Nokia Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-23</news:publication_date>
+         <news:title>Nokia maakt de Lumia 625 bekend met 4.7' scherm</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.nokianieuws.com/nokia-lanceert-budget-lumia-met-groot-scherm.html</loc>
+      <lastmod>2013-07-23</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>Nokia Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-23</news:publication_date>
+         <news:title>Nokia lanceert budget Lumia met groot scherm</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.nokianieuws.com/nokia-maakt-grote-en-betaalbare-lumia-625-officieel.html</loc>
+      <lastmod>2013-07-23</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>Nokia Nieuws</news:name>
+            <news:language>nl</news:language>
+         </news:publication>
+         <news:genres>PressRelease, Blog</news:genres>
+         <news:publication_date>2013-07-23</news:publication_date>
+         <news:title>Nokia maakt grote en betaalbare Lumia 625 officieel</news:title>
+      </news:news>
+   </url>
+   <url>
+      <loc>http://www.nokianieuws.com/nokia-kondigt-morgenochtend-een-groot-apparaat-aan.html</loc>
+      <lastmod>2013-07-22</lastmod>
+      <changefreq>weekly</changefreq>
+      <news:news>
+         <news:publication>
+            <news:name>Nokia Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -22,10 +135,11 @@
    </url>
    <url>
       <loc>http://www.nokianieuws.com/nokia-directeur-was-bang-voor-samsung.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-19</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>NokiaNieuws</news:name>
+            <news:name>Nokia Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -35,10 +149,11 @@
    </url>
    <url>
       <loc>http://www.nokianieuws.com/dure-tegenvaller-voor-goedkope-windows.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-19</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>NokiaNieuws</news:name>
+            <news:name>Nokia Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -48,10 +163,11 @@
    </url>
    <url>
       <loc>http://www.nokianieuws.com/ryan-hunter-reay-wint-een-espy-award.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>NokiaNieuws</news:name>
+            <news:name>Nokia Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -61,10 +177,11 @@
    </url>
    <url>
       <loc>http://www.nokianieuws.com/lumia-verkoop-in-de-lift-omzet-nokia-daalt-verder.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>NokiaNieuws</news:name>
+            <news:name>Nokia Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -74,10 +191,11 @@
    </url>
    <url>
       <loc>http://www.nokianieuws.com/nokia-verliest-weer-maar-minder-dan-vorig-jaar.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>NokiaNieuws</news:name>
+            <news:name>Nokia Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -87,10 +205,11 @@
    </url>
    <url>
       <loc>http://www.nokianieuws.com/nokia-lumia-520-wereldwijd-meest-verkocht-video.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>NokiaNieuws</news:name>
+            <news:name>Nokia Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -100,10 +219,11 @@
    </url>
    <url>
       <loc>http://www.nokianieuws.com/omzet-nokia-met-een-kwart-gekrompen-in-n-jaar-tijd.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>NokiaNieuws</news:name>
+            <news:name>Nokia Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -113,10 +233,11 @@
    </url>
    <url>
       <loc>http://www.nokianieuws.com/nokia-geraakt-maar-niet-uit-dal.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>NokiaNieuws</news:name>
+            <news:name>Nokia Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -126,10 +247,11 @@
    </url>
    <url>
       <loc>http://www.nokianieuws.com/minder-verlies-voor-nokia-in-tweede-kwartaal-dankzij-verkoop-lumia.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>NokiaNieuws</news:name>
+            <news:name>Nokia Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -139,10 +261,11 @@
    </url>
    <url>
       <loc>http://www.nokianieuws.com/verkopen-nokia-lumias-stijgen-wederom.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>NokiaNieuws</news:name>
+            <news:name>Nokia Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -152,10 +275,11 @@
    </url>
    <url>
       <loc>http://www.nokianieuws.com/nokia-verkoopt-meer-lumias.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>NokiaNieuws</news:name>
+            <news:name>Nokia Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -165,10 +289,11 @@
    </url>
    <url>
       <loc>http://www.nokianieuws.com/verkoop-nokia-lumia-trekt-aan.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>NokiaNieuws</news:name>
+            <news:name>Nokia Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -178,10 +303,11 @@
    </url>
    <url>
       <loc>http://www.nokianieuws.com/nokia-weet-verlies-te-beperken.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>NokiaNieuws</news:name>
+            <news:name>Nokia Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -191,10 +317,11 @@
    </url>
    <url>
       <loc>http://www.nokianieuws.com/colar-app-brengt-kleurplaten-tot-leven.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>NokiaNieuws</news:name>
+            <news:name>Nokia Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -204,10 +331,11 @@
    </url>
    <url>
       <loc>http://www.nokianieuws.com/omzet-nokia-stort-in.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>NokiaNieuws</news:name>
+            <news:name>Nokia Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -217,10 +345,11 @@
    </url>
    <url>
       <loc>http://www.nokianieuws.com/nokia-raakt-maar-niet-weg-uit-sukkelstraatje.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>NokiaNieuws</news:name>
+            <news:name>Nokia Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -230,10 +359,11 @@
    </url>
    <url>
       <loc>http://www.nokianieuws.com/omzet-nokia-met-bijna-een-kwart-omlaag.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>NokiaNieuws</news:name>
+            <news:name>Nokia Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -243,10 +373,11 @@
    </url>
    <url>
       <loc>http://www.nokianieuws.com/nokias-lumia-scoort-onvoldoende.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>NokiaNieuws</news:name>
+            <news:name>Nokia Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -256,10 +387,11 @@
    </url>
    <url>
       <loc>http://www.nokianieuws.com/lumia-zorgt-voor-voorzichtig-herstel-nokia.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>NokiaNieuws</news:name>
+            <news:name>Nokia Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -269,10 +401,11 @@
    </url>
    <url>
       <loc>http://www.nokianieuws.com/nokia-ziet-verkopen-lumia-telefoons-opnieuw-stijgen.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>NokiaNieuws</news:name>
+            <news:name>Nokia Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -282,10 +415,11 @@
    </url>
    <url>
       <loc>http://www.nokianieuws.com/nokia-komt-met-goedkoper-47-inch-lumia-toestel.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>NokiaNieuws</news:name>
+            <news:name>Nokia Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -295,10 +429,11 @@
    </url>
    <url>
       <loc>http://www.nokianieuws.com/omzet-nokia-blijft-maar-kelderen.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-18</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>NokiaNieuws</news:name>
+            <news:name>Nokia Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -308,10 +443,11 @@
    </url>
    <url>
       <loc>http://www.nokianieuws.com/nokia-lumia-925-eind-augustus-2013-verkrijgbaar.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-17</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>NokiaNieuws</news:name>
+            <news:name>Nokia Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -321,10 +457,11 @@
    </url>
    <url>
       <loc>http://www.nokianieuws.com/nokia-lumia-625-grootste-lumia-tot-nu-toe.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-17</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>NokiaNieuws</news:name>
+            <news:name>Nokia Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -334,10 +471,11 @@
    </url>
    <url>
       <loc>http://www.nokianieuws.com/goedkope-nokia-lumia-met-47inch-scherm-lekt-uit.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-17</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>NokiaNieuws</news:name>
+            <news:name>Nokia Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -347,10 +485,11 @@
    </url>
    <url>
       <loc>http://www.nokianieuws.com/fotos-nokia-lumia-625-lekken-uit.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-17</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>NokiaNieuws</news:name>
+            <news:name>Nokia Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -360,10 +499,11 @@
    </url>
    <url>
       <loc>http://www.nokianieuws.com/nokia-maakt-nieuwe-4g-telefoon.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-17</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>NokiaNieuws</news:name>
+            <news:name>Nokia Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -373,10 +513,11 @@
    </url>
    <url>
       <loc>http://www.nokianieuws.com/nokia-lumia-1020-uit-elkaar-gehaald-en-duitse-prijs-bekend.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-17</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>NokiaNieuws</news:name>
+            <news:name>Nokia Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -386,10 +527,11 @@
    </url>
    <url>
       <loc>http://www.nokianieuws.com/fotos-nokia-lumia-toestel-met-grootste-scherm-komen-online.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-17</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>NokiaNieuws</news:name>
+            <news:name>Nokia Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -399,10 +541,11 @@
    </url>
    <url>
       <loc>http://www.nokianieuws.com/omzet-yahoo-daalt-winst-stijgt.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-16</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>NokiaNieuws</news:name>
+            <news:name>Nokia Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -412,10 +555,11 @@
    </url>
    <url>
       <loc>http://www.nokianieuws.com/prijzen-windows-phones-nokia-htc-en-samsung-kelderen-in-nederland.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-16</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>NokiaNieuws</news:name>
+            <news:name>Nokia Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
@@ -425,10 +569,11 @@
    </url>
    <url>
       <loc>http://www.nokianieuws.com/nokia-lumia-925-eind-augustus-te-koop.html</loc>
-      <changefreq>monthly</changefreq>
+      <lastmod>2013-07-16</lastmod>
+      <changefreq>weekly</changefreq>
       <news:news>
          <news:publication>
-            <news:name>NokiaNieuws</news:name>
+            <news:name>Nokia Nieuws</news:name>
             <news:language>nl</news:language>
          </news:publication>
          <news:genres>PressRelease, Blog</news:genres>
