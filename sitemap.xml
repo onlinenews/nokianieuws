@@ -3,7 +3,7 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
    <url>
       <loc>http://www.nokianieuws.com/</loc>
-      <lastmod>2013-07-25</lastmod>
+      <lastmod>2013-07-26</lastmod>
       <changefreq>hourly</changefreq>
       <priority>1</priority>
    </url>

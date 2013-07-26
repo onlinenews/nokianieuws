@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+   <!--
+   Copyright (c) 2013 Nokia Nieuws
+   All rights reserved
+   -->
+   <html>
+      <head>
+         <title>Nokia Nieuws - archief van juli</title>
+         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+         <meta name="description" content="Het allerlaatste nieuws over Nokia!" />
+	 <meta name="keywords" content="Nokia, nokia nieuws, nokianieuws, smartphone, smart phone, smartphones, smart phones, lumia, asha" />
+	 <meta name="author" content="nokianieuws.com" />
+         <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+         <script src="http://www.iphonenieuws.com/js/scripts.js" type="text/javascript"></script>
+         <script type="text/javascript">
+            WebFontConfig = {
+               google: { families: [ 'Magra:400' ] }};
+            (function() {
+               var wf = document.createElement('script');
+               wf.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+               wf.type = 'text/javascript';
+               wf.async = 'true';
+               var s = document.getElementsByTagName('script')[0];
+               s.parentNode.insertBefore(wf, s);
+            })();
+         </script>
+         <link rel="stylesheet" href="http://www.iphonenieuws.com/css/stylesheet.css" type="text/css" />
+      </head>
+      <body class="nokianieuws">
+         <div id="topbar">
+            <ul>
+               <li class="active">Nokia Nieuws</li><li><a href="http://www.iphonenieuws.com">iPhone Nieuws</a></li><li><a href="http://www.androidnieuws.com">Android Nieuws</a></li><li><a href="http://www.blackberrynieuws.com">BlackBerry Nieuws</a></li>               <li class="right"><script>var d=new Date();
+var month=new Array();
+month[0]="januari";
+month[1]="februari";
+month[2]="maart";
+month[3]="april";
+month[4]="mei";
+month[5]="juni";
+month[6]="juli";
+month[7]="augustus";
+month[8]="september";
+month[9]="oktober";
+month[10]="november";
+month[11]="december";
+var n = month[d.getMonth()];
+document.write(d.getDate()+" ");
+document.write(n+" ");
+document.write(d.getFullYear());
+</script></li>
+            </ul>
+         </div><div id="leaderboard"><script type="text/javascript"  src="http://views.m4n.nl/_v?zid=1088321"></script></div><h1 id="pagetitle"><a href="http://www.nokianieuws.com"><img src="images/title.jpg" alt="Nokia Nieuws"/></a></h1>
+         <div id="nav">
+            <ul>
+               <li class="active">Laatste Nieuws</li>               <li><a href="#" class="coming_soon">Tech Specs</a></li>               <li><a href="#" class="coming_soon">Reviews</a></li>
+               <li><a href="#" class="coming_soon">Foto's</a></li>
+               <li><a href="#" class="coming_soon">Verkooppunten</a></li>            </ul>
+         </div><div id="container" class="shift">
+<div id="article" class="articlebox">
+   <h1>Archief van november</h1>
+   <a href="oktober2012.html">&laquo; archief van oktober</a> | <a href="december2012.html">archief van december &raquo;</a><br/>
+   <ul class="archive"></ul>
+</div>
+</div>
+<div class="articlebox sidebar">
+</div>
+<script>
+$.ajax({
+url: "sidebar.html",
+cache: false
+}).done(function( html ) {
+console.log(html)
+$(".sidebar").append(html);
+});
+</script>
+<div class="clear"></div><div class="footer" style="width: 100%; margin-top: 50px; background-color: #000; padding: 20px 0px;">
+            <img src="images/title2.jpg"  alt="Nokia Nieuws" style="display: block; margin: 20px auto;"/>
+         </div>
+      </body>
+   </html>
