@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.nokianieuws.com/nokia-lumia-825-met-52-inch-scherm-in-de-maak.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Nokia Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-15</news:publication_date>
+   <news:title>'Nokia Lumia 825 met 5,2 inch scherm in de maak'</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.nokianieuws.com/specificaties-nokia-tablet-met-windows-rt-81-lekken-uit.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
