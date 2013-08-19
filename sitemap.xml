@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.nokianieuws.com/nokia-komt-dit-jaar-met-6-inch-smartphone.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Nokia Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-19</news:publication_date>
+   <news:title>'Nokia komt dit jaar met 6 inch-smartphone'</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.nokianieuws.com/gerucht-6-smartphone-nokia-krijgt-20-megapixelcamera-en-quadcore-soc.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
