@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.nokianieuws.com/nokia-bandit-is-windows-phone-met-6-inch-scherm.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Nokia Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-21</news:publication_date>
+   <news:title>'Nokia Bandit is Windows Phone met 6 inch scherm'</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.nokianieuws.com/facebook-consortium-brengt-smartphones-en-internet-naar-derde-wereld-1.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Nokia Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-21</news:publication_date>
+   <news:title>Facebook-consortium brengt smartphones en internet naar derde wereld</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.nokianieuws.com/facebook-consortium-brengt-smartphones-en-internet-naar-derde-wereld.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
