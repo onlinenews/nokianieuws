@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.nokianieuws.com/eerste-foto-nokia-lumia-1520-lekt-uit.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Nokia Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-29</news:publication_date>
+   <news:title>Eerste foto Nokia Lumia 1520 lekt uit</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.nokianieuws.com/nokia-phablet-lumia-1520-naast-lumia-1020.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
@@ -19,6 +33,20 @@
    <news:genres>PressRelease, Blog</news:genres>
    <news:publication_date>2013-08-29</news:publication_date>
    <news:title>Nokia phablet Lumia 1520 naast Lumia 1020</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.nokianieuws.com/eerste-foto-van-nokia-lumia-1520-gelekt.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Nokia Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-29</news:publication_date>
+   <news:title>'Eerste foto van Nokia Lumia 1520 gelekt'</news:title>
 </news:news>
 </url>
 <url>
