@@ -3,9 +3,23 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.nokianieuws.com/</loc>
-<lastmod>2013-08-30</lastmod>
+<lastmod>2013-08-31</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.nokianieuws.com/nokia-werkt-aan-allesomvattende-autosoftware.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Nokia Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-30</news:publication_date>
+   <news:title>Nokia werkt aan allesomvattende autosoftware</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.nokianieuws.com/nokia-introduceert-besturingssysteem-voor-autos-here-auto.html</loc>
