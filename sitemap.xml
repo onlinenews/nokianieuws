@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.nokianieuws.com/microsoft-neemt-nokia-over-1.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Nokia Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-03</news:publication_date>
+   <news:title>Microsoft neemt Nokia over</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.nokianieuws.com/microsoft-neemt-nokia-over.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
@@ -19,6 +33,20 @@
    <news:genres>PressRelease, Blog</news:genres>
    <news:publication_date>2013-09-03</news:publication_date>
    <news:title>Microsoft neemt Nokia over</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.nokianieuws.com/microsoft-koopt-deel-van-nokia.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Nokia Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-03</news:publication_date>
+   <news:title>Microsoft koopt deel van Nokia</news:title>
 </news:news>
 </url>
 <url>
