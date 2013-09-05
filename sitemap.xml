@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.nokianieuws.com/nokia-lumia-1020-in-nederland-te-koop-vanaf-eind-september.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Nokia Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-05</news:publication_date>
+   <news:title>Nokia Lumia 1020 in Nederland te koop vanaf eind september</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.nokianieuws.com/oud-nokia-topman-gaat-met-newkia-voor-android.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Nokia Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-05</news:publication_date>
+   <news:title>Oud-Nokia-topman gaat met Newkia voor Android</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.nokianieuws.com/nokia-lumia-1020-ligt-eind-september-in-nederlandse-winkels.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
@@ -19,6 +47,20 @@
    <news:genres>PressRelease, Blog</news:genres>
    <news:publication_date>2013-09-05</news:publication_date>
    <news:title>Nokia Lumia 1020 ligt eind september in Nederlandse winkels</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.nokianieuws.com/nokia-spot-op-twitter-met-android-naam-kitkat.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Nokia Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-05</news:publication_date>
+   <news:title>Nokia spot op Twitter met Android-naam 'Kitkat'</news:title>
 </news:news>
 </url>
 <url>
