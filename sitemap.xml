@@ -3,9 +3,23 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.nokianieuws.com/</loc>
-<lastmod>2013-09-05</lastmod>
+<lastmod>2013-09-06</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.nokianieuws.com/nokia-is-dood---leve-newkia.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Nokia Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-06</news:publication_date>
+   <news:title>Nokia is dood - leve 'Newkia'</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.nokianieuws.com/nokia-komt-nog-deze-maand-met-de-lumia-1020-op-de-markt.html</loc>
