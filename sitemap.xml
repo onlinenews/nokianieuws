@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.nokianieuws.com/nokia-krijgt-nu-al-15-miljard-van-microsoft.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Nokia Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-08</news:publication_date>
+   <news:title>Nokia krijgt nu al 1,5 miljard van Microsoft</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.nokianieuws.com/nokia-laat-zich-vooruitbetalen-door-microsoft.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
