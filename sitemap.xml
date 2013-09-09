@@ -3,9 +3,23 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.nokianieuws.com/</loc>
-<lastmod>2013-09-08</lastmod>
+<lastmod>2013-09-09</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.nokianieuws.com/bijna-baas-van-nokia-noemt-overname-door-microsoft-beschamend.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Nokia Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-09</news:publication_date>
+   <news:title>Bijna-baas van Nokia noemt overname door Microsoft 'beschamend'</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.nokianieuws.com/nokia-krijgt-nu-al-15-miljard-van-microsoft.html</loc>
