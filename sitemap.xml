@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.nokianieuws.com/vliegende-start-markt-fusies-en-overnames.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Nokia Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-10</news:publication_date>
+   <news:title>Vliegende start markt fusies en overnames</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.nokianieuws.com/newkia-smartphones-gaan-anders-heten.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
