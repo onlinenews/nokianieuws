@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.nokianieuws.com/merknaam-lumia-in-de-toekomst-mogelijk-verleden-tijd.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Nokia Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-11</news:publication_date>
+   <news:title>Merknaam Lumia in de toekomst mogelijk verleden tijd</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.nokianieuws.com/wil-jij-als-eerste-spelen-met-de-nokia-lumia-1020.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Nokia Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-11</news:publication_date>
+   <news:title>Wil jij als eerste 'spelen' met de Nokia Lumia 1020?</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.nokianieuws.com/nokia-lumia-625-hands-on.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
