@@ -3,9 +3,23 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.nokianieuws.com/</loc>
-<lastmod>2013-09-15</lastmod>
+<lastmod>2013-09-16</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.nokianieuws.com/met-een-iphone-trek-je-niet-ten-oorlog-of-hoe-nokia-de-boot-miste.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Nokia Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-16</news:publication_date>
+   <news:title>Met een iPhone trek je niet ten oorlog of hoe Nokia de boot miste</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.nokianieuws.com/nokia-had-lumia-toestel-met-android-in-ontwikkeling.html</loc>
