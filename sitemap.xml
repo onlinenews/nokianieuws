@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.nokianieuws.com/acm-deed-spamonderzoek-bij-nokia.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Nokia Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-18</news:publication_date>
+   <news:title>ACM deed spamonderzoek bij Nokia</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.nokianieuws.com/zeven-telecom--en-internetbedrijven-willen-wereldwijd-gratis-internet.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
