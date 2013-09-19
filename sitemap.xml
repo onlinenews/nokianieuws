@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.nokianieuws.com/apple-ceo-we-moeten-geen-tweede-nokia-worden.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Nokia Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-19</news:publication_date>
+   <news:title>Apple-CEO: 'We moeten geen tweede Nokia worden'</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.nokianieuws.com/nokia-organiseert-evenement-op-22-oktober.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
