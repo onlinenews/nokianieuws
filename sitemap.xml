@@ -3,9 +3,23 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.nokianieuws.com/</loc>
-<lastmod>2013-10-09</lastmod>
+<lastmod>2013-10-10</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.nokianieuws.com/apple-microsoft-en-nokia-komen-22-oktober-met-nieuwe-tablets.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Nokia Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-10</news:publication_date>
+   <news:title>‘Apple, Microsoft en Nokia komen 22 oktober met nieuwe tablets’</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.nokianieuws.com/foto-nokia-asha-503-goedkope-smartphone-lekt-uit.html</loc>
