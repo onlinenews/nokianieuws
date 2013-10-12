@@ -3,9 +3,23 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.nokianieuws.com/</loc>
-<lastmod>2013-10-11</lastmod>
+<lastmod>2013-10-12</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.nokianieuws.com/een-spookachtige-nokia-lumia-925.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Nokia Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-12</news:publication_date>
+   <news:title>Een spookachtige Nokia Lumia 925</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.nokianieuws.com/lumia-1020-voorkomt-vechtpartijen-tussen-ouders-fun-video.html</loc>
