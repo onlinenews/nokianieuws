@@ -3,9 +3,23 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.nokianieuws.com/</loc>
-<lastmod>2013-10-12</lastmod>
+<lastmod>2013-10-13</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.nokianieuws.com/cameravergelijk-lumia-1020-xperia-z1-lg-g2-en-sony-qx10.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Nokia Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-13</news:publication_date>
+   <news:title>Cameravergelijk: Lumia 1020, Xperia Z1, LG G2 en Sony QX10</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.nokianieuws.com/een-spookachtige-nokia-lumia-925.html</loc>
