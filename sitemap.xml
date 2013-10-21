@@ -3,9 +3,23 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.nokianieuws.com/</loc>
-<lastmod>2013-10-17</lastmod>
+<lastmod>2013-10-21</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.nokianieuws.com/verkoop-lumias-helpt-nokia-naar-record.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Nokia Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-21</news:publication_date>
+   <news:title>Verkoop Lumia's helpt Nokia naar record</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.nokianieuws.com/duurzame-logistieke-hal-voor-nokiasiemens-networks.html</loc>
