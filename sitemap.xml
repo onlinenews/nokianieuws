@@ -8,6 +8,34 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.nokianieuws.com/nokia-verkocht-8-miljoen-lumias-in-q3-2013.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Nokia Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-21</news:publication_date>
+   <news:title>'Nokia verkocht 8 miljoen Lumia's in Q3 2013'</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.nokianieuws.com/nokia-verkoopt-recordaantal-lumias.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Nokia Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-21</news:publication_date>
+   <news:title>'Nokia verkoopt recordaantal Lumia's'</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.nokianieuws.com/verkoop-lumias-helpt-nokia-naar-record.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
