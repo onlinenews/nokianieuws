@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.nokianieuws.com/bedrijfsresultaten-steunen-europese-handel.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Nokia Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-10-29</news:publication_date>
+   <news:title>Bedrijfsresultaten steunen Europese handel</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.nokianieuws.com/nokia-verkleint-verlies-ondanks-omzetdaling-2.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
