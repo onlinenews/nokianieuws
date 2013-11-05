@@ -3,9 +3,37 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.nokianieuws.com/</loc>
-<lastmod>2013-11-04</lastmod>
+<lastmod>2013-11-05</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.nokianieuws.com/waarom-huawei-op-het-vaticaan-lijkt.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Nokia Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-05</news:publication_date>
+   <news:title>Waarom Huawei op het Vaticaan lijkt</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.nokianieuws.com/details-over-nokia-8-windowsrt-tablet-die-in-2014-zou-verschijnen-komen-onl.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Nokia Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-05</news:publication_date>
+   <news:title>Details over Nokia 8"-WindowsRT-tablet die in 2014 zou verschijnen komen online</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.nokianieuws.com/nokia-is-de-op-drie-na-grootste-smartphonefabrikant-in-de-vs.html</loc>
