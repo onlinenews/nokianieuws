@@ -3,9 +3,37 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.nokianieuws.com/</loc>
-<lastmod>2013-11-19</lastmod>
+<lastmod>2013-11-21</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.nokianieuws.com/duitsers-bouwen-moederbord-om-nokia-n900-te-upgraden.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Nokia Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-20</news:publication_date>
+   <news:title>Duitsers bouwen moederbord om Nokia N900 te upgraden</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.nokianieuws.com/phablet-wint-aan-populariteit.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Nokia Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-20</news:publication_date>
+   <news:title>Phablet wint aan populariteit</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.nokianieuws.com/aandeelhouders-nokia-eens-met-deal-microsoft-1.html</loc>
