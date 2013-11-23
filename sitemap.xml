@@ -8,6 +8,20 @@
 <priority>1</priority>
 </url>
 <url>
+<loc>http://www.nokianieuws.com/nokia-kleineert-blackberry-op-twitter.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Nokia Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-22</news:publication_date>
+   <news:title>Nokia kleineert BlackBerry op Twitter</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.nokianieuws.com/macaw-beloont-vraag-over-up-en-down-scaling.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
