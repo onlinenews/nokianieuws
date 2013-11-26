@@ -3,9 +3,23 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.nokianieuws.com/</loc>
-<lastmod>2013-11-25</lastmod>
+<lastmod>2013-11-26</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.nokianieuws.com/nokia-doet-een-microsoftje-en-kraakt-de-ipad-af-in-nieuwe-lumia-2520-commer.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Nokia Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-26</news:publication_date>
+   <news:title>Nokia doet een 'Microsoftje' en kraakt de iPad af in nieuwe Lumia 2520 commercial</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.nokianieuws.com/nokia-verstevigt-greep-op-windows-phone.html</loc>
