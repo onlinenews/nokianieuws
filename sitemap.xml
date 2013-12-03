@@ -3,9 +3,23 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.nokianieuws.com/</loc>
-<lastmod>2013-12-02</lastmod>
+<lastmod>2013-12-03</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.nokianieuws.com/groen-licht-voor-overname-nokia-door-microsoft.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Nokia Nieuws</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-12-03</news:publication_date>
+   <news:title>Groen licht voor overname Nokia door Microsoft</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.nokianieuws.com/vs-geven-groen-licht-voor-nokia-deal.html</loc>
